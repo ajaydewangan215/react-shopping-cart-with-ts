@@ -3,24 +3,24 @@
     "id": 1,
     "name": "Book",
     "price": 10.99,
-    "imgUrl": "/imgs/book.jpg"
+    "imgUrl": "https://hips.hearstapps.com/hmg-prod/images/old-books-arranged-on-shelf-royalty-free-image-1572384534.jpg"
   },
   {
     "id": 2,
     "name": "Computer",
     "price": 1199,
-    "imgUrl": "/imgs/computer.jpg"
+    "imgUrl": "https://i.pcmag.com/imagery/reviews/00xTIwo4AQMjnWl4H4ctDCq-1.fit_scale.size_1028x578.v1643394203.jpg"
   },
   {
     "id": 3,
     "name": "Banana",
     "price": 1.05,
-    "imgUrl": "/imgs/banana.jpg"
+    "imgUrl": "https://www.news-medical.net/image.axd?picture=2018%2F2%2Fbanana.jpg"
   },
   {
     "id": 4,
     "name": "Car",
     "price": 14000,
-    "imgUrl": "/imgs/car.jpg"
+    "imgUrl": "https://carwow-uk-wp-3.imgix.net/Volvo-XC40-white-scaled.jpg"
   }
 ]
